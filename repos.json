@@ -1,11 +1,4 @@
 {
-  "gitlab": [
-    {
-      "owner": "krystof.novotny",
-      "repo": "labels",
-      "url": "https://gitlab.com"
-    }
-  ],
   "github": [
     {
       "owner": "novotkry",
